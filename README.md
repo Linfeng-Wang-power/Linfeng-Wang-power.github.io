@@ -2,7 +2,7 @@
 
 这是按参考图结构制作的本地学术主页：顶部导航、左侧个人信息、右侧简介与研究经历、动态、论文筛选、教育、荣誉及学术服务。支持桌面和手机，无框架、无安装依赖。
 
-当前已填入 Linfeng Wang（汪琳丰）的真实资料与三篇论文；未提供的动态、研究经历和学术服务自动隐藏。
+当前已填入 Linfeng Wang（汪琳丰）的真实资料与四篇论文；未提供的动态、研究经历和学术服务自动隐藏。
 
 ## 打开预览
 
@@ -65,11 +65,11 @@ python3 -m http.server 8765 --bind 127.0.0.1
 
 ## 当前图片与署名维护
 
-现有图片保留在主页目录：`person.jpg` 为头像；`qiyao-m.png`、`bits.png`、`uvtd.png` 为论文配图。`content.js` 的路径与实际文件名保持一致即可。
+现有图片保留在主页目录：`person.jpg` 为头像；`qiyao-i.png`、`qiyao-m.png`、`bits.png`、`uvtd.png` 为论文配图。`content.js` 的路径与实际文件名保持一致即可。
 
 论文 `authors` 按正式顺序填写；`equalContributors` 中的姓名显示上标星号，`profile.name` 对应的作者始终加粗。共同一作身份按本人提供的信息标注，QiYao-M 标记 Hanyin Cheng 与 Linfeng Wang；BITS 标记 Kangjia Yan、Linfeng Wang 与 Tianen Shen。
 
-论文元数据来源：[QiYao-M](https://arxiv.org/abs/2609.34842)、[BITS](https://arxiv.org/abs/2609.33303)、[UVTD 作者主页](https://cie.shmtu.edu.cn/2025/0302/c6367a241960/page.htm)。UVTD 链接保留用户提供的 IEEE 页面。
+论文元数据来源：[QiYao-I](https://arxiv.org/abs/2610.06936)、[QiYao-M](https://arxiv.org/abs/2609.34842)、[BITS](https://arxiv.org/abs/2609.33303)、[UVTD 作者主页](https://cie.shmtu.edu.cn/2025/0302/c6367a241960/page.htm)。UVTD 链接保留用户提供的 IEEE 页面。
 
 ## 实习、联系方式和图标
 

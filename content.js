@@ -154,6 +154,34 @@ window.homepage = {
       "bibtex": ""
     },
     {
+      "title": "QiYao-I: A Manifold Based Foundation Model for Irregular Multivariate Time Series Forecasting",
+      "authors": [
+        "Linfeng Wang",
+        "Ruitong Zhang",
+        "Kai Zhao",
+        "Yang Shu",
+        "Zhongwen Rao",
+        "Meng Wang",
+        "Yijie Li",
+        "Bin Yang",
+        "Chenjuan Guo"
+      ],
+      "equalContributors": [],
+      "venue": "arXiv preprint · 2026",
+      "year": "2026",
+      "badge": "QiYao-I",
+      "description": "A foundation model for forecasting irregular multivariate time series, using sampling-conditioned temporal manifold attention and frequency-aware variable interactions to support zero-shot and few-shot prediction.",
+      "tags": [
+        "Foundation Models",
+        "Time Series Analysis"
+      ],
+      "image": "qiyao-i.png",
+      "links": {
+        "Paper": "https://arxiv.org/abs/2610.06936"
+      },
+      "bibtex": ""
+    },
+    {
       "title": "BITS: Rethinking Fair and Comprehensive Evaluation for Irregular Time Series Forecasting",
       "authors": [
         "Kangjia Yan",
@@ -412,6 +440,7 @@ window.homepage = {
       ],
       "paperDescriptions": [
         "区分内生与外生模态作用的多模态时间序列基础模型，将时序建模与基于检索的适配相结合。",
+        "面向不规则多变量时间序列预测的基础模型，通过采样条件化的时间流形注意力与频率感知的变量交互，支持零样本和少样本预测。",
         "面向不规则时间序列预测的基准，覆盖九个领域的十一个数据集，提供统一评估流程与互补指标。",
         ""
       ]
